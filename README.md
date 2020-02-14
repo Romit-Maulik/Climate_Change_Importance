@@ -11,3 +11,7 @@ The `XGB.py` code reads in a `*.csv` file where the last column is the _only_ de
 
 `python XGB.py my_csv_filename.csv`
 
+## The feature importance for public support for federal intervention in climate change mitigation through policy
+
+![Relative decisiveness](https://github.com/Romit-Maulik/Climate_Change_Importance/blob/master/federal/federal.png "Relative decisiveness")
+![Fold Rankings](https://github.com/Romit-Maulik/Climate_Change_Importance/blob/master/federal/federal_RD.png "Fold ranking boxplots")
